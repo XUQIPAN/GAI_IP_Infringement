@@ -29,7 +29,7 @@ for i in range(100):
                 "content": content_string,
             }
         ],
-        model="gpt-4-turbo",
+        model="gpt-4o-mini",
         max_tokens=2000,
     )
 
